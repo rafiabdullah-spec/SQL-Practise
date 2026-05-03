@@ -1,3 +1,8 @@
+/* Abdullah Al Rafi,
+Hacker Rank, Medium
+5/3/26 */
+
+
 SELECT c.company_code, c.founder,
 COUNT(DISTINCT lm.lead_manager_code),
 COUNT(DISTINCT sm.senior_manager_code),
