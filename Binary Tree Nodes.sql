@@ -1,3 +1,7 @@
+/* Abdullah Al Rafi,
+Hacker Rank, Medium
+5/3/26 */
+
 SELECT
   N,
   CASE
